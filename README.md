@@ -1,4 +1,3 @@
-# Transfer-Learning
 # Medical MNIST Classification using VGG16/VGG19 and Transfer Learning
 
 ## Overview
